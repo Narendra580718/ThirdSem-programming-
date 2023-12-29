@@ -1,0 +1,21 @@
+
+Name: Luffy
+Address: sunny
+Age: 19
+Faculty: pirate
+Roll.Number: 1
+Name: Luffy
+Address: sunny
+Age: 19
+Faculty: pirate
+Roll.Number: 1
+Name: Zoro
+Address: sunny
+Age: 19
+Faculty: pirate
+Roll.Number: 2
+Name: Sanji
+Address: sunny
+Age: 19
+Faculty: pirate
+Roll.Number: 3
